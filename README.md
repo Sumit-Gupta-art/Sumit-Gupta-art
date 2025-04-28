@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sumitgupta69661@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lKtznrJCPKNt9h3dzUWBMUotiAaKTgof/view?usp=drivesdk](https://drive.google.com/file/d/1lKtznrJCPKNt9h3dzUWBMUotiAaKTgof/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lKtznrJCPKNt9h3dzUWBMUotiAaKTgof/view?usp=drivesdk](https://drive.google.com/file/d/1LSIP1ROkPnBzVsd-65iYdes23JEh4rII/view?usp=drivesdk)
 
 - ⚡ Fun fact **I like to code**
 
