@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit-gupta-art" alt="sumit-gupta-art" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development Using JAVA**
+- I have completed the Automation Testing
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sumit-Gupta-art](https://github.com/Sumit-Gupta-art)
 
